@@ -1,0 +1,30 @@
+:root {
+  --background-colour-about: #f0eaf9;
+}
+
+body {
+  text-align: center;
+}
+h1 {
+  font-size: 60px;
+  margin-bottom: -10px;
+  padding: 20px;
+}
+h2 {
+  opacity: 0.7;
+  padding-bottom: 40px;
+}
+h3 {
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+.email-link {
+  display: block;
+  text-decoration: none;
+  color: #6c63ff;
+  font-size: 28px;
+}
+.email-link:hover {
+  text-decoration: underline;
+}
